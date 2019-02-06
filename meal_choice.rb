@@ -2,7 +2,6 @@
 # passed into it and defaults to meat.
 def meal_choice(type = "meat")
   type
-  return type
 end
 
 meal_choice
